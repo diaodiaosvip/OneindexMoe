@@ -1,7 +1,7 @@
 <?php return array (
   'site_name' => 'OneIndex',
   'password' => 'diaodiao',
-  'style' => 'material',
+  'style' => 'nexmoe',
   'onedrive_root' => '/',
   'cache_type' => 'secache',
   'cache_expire_time' => 3600,
@@ -85,7 +85,6 @@
       16 => 'xls',
       17 => 'xlsx',
       18 => 'txt',
-      19 => 'apk',
     ),
   ),
   'images' => 
