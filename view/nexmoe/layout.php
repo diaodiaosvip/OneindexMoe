@@ -17,10 +17,10 @@
 <body class="mdui-theme-primary-blue-grey mdui-theme-accent-blue">
 	<header class="nav">
 		<div class="navSize">
-			<a href="/"><img class="avatar" src="//q.qlogo.cn/g?b=qq&nk=2894049053&s=100"/></a>
+			<a href="/"><img class="avatar" src="//q.qlogo.cn/g?b=qq&nk=1914417002&s=100"/></a>
 			<div class="navRight">
 				<ul class="navul">
-                    <li class="navli"><a style="color: black" href="/"><b><i class="mdui-icon material-icons">cloud_queue</i> 首页</b></a></li>
+                    #<li class="navli"><a style="color: black" href="/"><b><i class="mdui-icon material-icons">cloud_queue</i> 首页</b></a></li>
 					<li class="navli"><a style="color: black" href="https://github.com/Baiyuetribe/OneindexMoe" target="_blank"><b><i class="mdui-icon material-icons">shopping_cart</i> Github</b></a></li>
 				</ul>
 				<div class="icon"></div>
