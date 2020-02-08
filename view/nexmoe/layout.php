@@ -3,9 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
-	<title><?php e($title.' - '.config('site_name'));?></title>
-	<meta name="keywords" content="佰阅部落baiyue.one">
-	<meta name="author" content="佰阅部落baiyue.one">
+	<title>个人云储存</title>
 	<link rel="shortcut icon" href="./view/nexmoe/favicon.ico" type="image/x-icon" />	
 	<link rel="stylesheet" href="//cdnjs.loli.net/ajax/libs/mdui/0.4.1/css/mdui.css">
 	<link rel="stylesheet" href="./view/nexmoe/theme/style.css">
@@ -21,7 +19,7 @@
 			<div class="navRight">
 				<ul class="navul">
                     #<li class="navli"><a style="color: black" href="/"><b><i class="mdui-icon material-icons">cloud_queue</i> 首页</b></a></li>
-					<li class="navli"><a style="color: black" href="https://github.com/Baiyuetribe/OneindexMoe" target="_blank"><b><i class="mdui-icon material-icons">shopping_cart</i> Github</b></a></li>
+					#<li class="navli"><a style="color: black" href="https://github.com/Baiyuetribe/OneindexMoe" target="_blank"><b><i class="mdui-icon material-icons">shopping_cart</i> Github</b></a></li>
 				</ul>
 				<div class="icon"></div>
 			</div>
