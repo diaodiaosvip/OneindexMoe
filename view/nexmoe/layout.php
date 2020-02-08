@@ -19,7 +19,7 @@
 			<div class="navRight">
 				<ul class="navul">
                     <li class="navli"><a style="color: black" href="/"><b><i class="mdui-icon material-icons">cloud_queue</i> 首页</b></a></li>
-#					<li class="navli"><a style="color: black" href="https://github.com/Baiyuetribe/OneindexMoe" target="_blank"><b><i class="mdui-icon material-icons">shopping_cart</i> Github</b></a></li>
+//					<li class="navli"><a style="color: black" href="https://github.com/Baiyuetribe/OneindexMoe" target="_blank"><b><i class="mdui-icon material-icons">shopping_cart</i> Github</b></a></li>
 				</ul>
 				<div class="icon"></div>
 			</div>
