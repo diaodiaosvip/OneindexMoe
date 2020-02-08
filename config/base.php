@@ -12,8 +12,6 @@
     'stream' => 
     array (
       0 => 'txt',
-      1 => 'jpg',
-      2 => 'png',
     ),
     'image' => 
     array (
