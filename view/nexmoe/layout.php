@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-//					<li class="navli"><a style="color: black" href="https://github.com/Baiyuetribe/OneindexMoe" target="_blank"><b><i class="mdui-icon material-icons">shopping_cart</i> Github</b></a></li>
 <html>
 <head>
 	<meta charset="utf-8">
