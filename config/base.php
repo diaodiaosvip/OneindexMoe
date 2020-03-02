@@ -99,10 +99,10 @@
       3 => 'bmp',
     ),
   ),
-  'client_secret' => 'rtD13_jqfrrZEXLET809@?|',
-  'client_id' => '61902a1a-8744-4376-9dc1-d05416813716',
+  'client_secret' => 'lnwdFFH11?*hepQWJP492$]',
+  'client_id' => '4c33b18d-3dc6-414d-8bb7-96ec9c4d1dab',
   'redirect_uri' => 'https://oneindex.github.io/',
-  'refresh_token' => 'OAQABAAAAAACQN9QBRU3jT6bcBQLZNUj77OZ-z7p7RM-zcmi8t44rzPYPftOe06Aj0j_LV9bdi5SS--AoLSXB6BHn64wlz4gph2V7knjO6QbaLgPiwlZ_N9UHABbxZUNhzzIoBo1ccEnmjhP6DtHujNfS1hs2j2hmeB3kJchY_hiAF7prlHnVAgHjSfAe9i3JLvViEwh3RnsHTVhcBEEbwzPzePXKdyoQrfV69VK1uva43SpDqj9AOzDH8I3B0do2eLNvtq-AYP8vDYFIJLLHvddPAGoru5ca5DpnzR3n87u5Dbs4zM8xut25wsRefSY7mbVN54UX_--78WnpGYMg3SI6gQgvPh8ChyacND_v_EttxysyL5oJ7VLrB17gmqfEYpJ4v_CTF55DllPlG0Nn8uwhiRMdyZDeaKO7xJWmYb8Vc1XVA8oZhJThgkk2qZBnERYo6squXrPvPNjbkTILMqaYtovDEdTOxIfk9QAS3UPVROi1oBiWnK3oWS9-E0-GsMxraZq1wfbPl-pqzF6M2EIle-rQc3BULVvBuMAWi_WyQF_TCiCYmcpEEDeoqY5ENasy1dxW3RU4ky7bmzOfh3lyFCq08zkqNmi2LsBdRMyCXAguNDL-xPdR_P3tgQc83KJEUbF8lUyTKEA_ryHHs7iFjHzwIOydZdVdnbwrbvFmAxdbp9yKRPk42R8AZGV86X3nkLIb_-TSVEYzvE65ISo_XMMzKVgR5ySolLV12J5IDWAFBuS5PxmeJ1dQOcGp0D65guC6Ll96VMzLMHGtxEHrEhBujeut13ikbD8porjMat82ngNsu8apxpIwBbuiwNn7JpL6-ywgAA',
+  'refresh_token' => '0.ASoAMjd4CRCEo0qLXZsr9qPWzY2xM0zGPU1Bi7eW7JxNHasqAL8.AQABAAAAAABeAFzDwllzTYGDLh_qYbH8aQxuTjlgKe0DttxZpVxCsM-YeH8zSXo6oCBlmkATY3sbw-OiM1Vm7rFf05QEo1TKd6CX-2sX5e7PikQDZdw6nKZRsMibcnujGdAXM3MA7tSRr4cNJOX9AqEoGMIPR-nxw8zu6igr4BLhMh6nAFpvDs4G_ppSi-jJQM3JGSZNb3TwvY1op6vKIWuiuW2krlr8t4e1t0ofngpjHNoW12GQn5EplikjGl-QoIBPGHNI0AShy1iN1SfFKGV-P-siWMBb94NI5mdLe2DfFp9CajffnT0KpB-PxBv57jRMxOSPbXyQgRBHW2kFH5Aww_Y0r0H5dibAl3FikhJfy5Qt5r3FbMAAcgaFC5NIbQ6sKTI9LT6rqf3y2_LprehzZgW9QqQHUdo81xHEjd5Spenxanhl33etQQgdG8fRJbCUslklfw9WokhgdBtZcAVxrkAn7h6mTPzkTBkOboVeJFUGN-psKPNtoa4D04_CGHlPy6DX7VLTkjj1WwWlz4x864OfWHSpEFs-PCTC6oZOZoyVnAhwC0I3p0_HdMNry8Y5atMQM74fTJ4jMEgeQkNwshAvoKz7GHkS2zSP1hMpM7dnHwljB97RZOgUQqg6nPndRR6lges5cAQvuhylrbxwMpiR2QAcPuLKllKkogGOecqAXq1s9I6BJRvNWbQV01X5DlFP3hIudJQ0mdV9ijOwGjtT4u0mIAA',
   'onedrive_hide' => '',
   'onedrive_hotlink' => '',
 );
